@@ -1,0 +1,10 @@
+INSERT INTO item (article, cost, item_name, state) VALUES ('1231', 1.01, 'milk', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1232', 1.02, 'cookie', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1233', 1.03, 'beer', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1234', 1.04, 'bread', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1235', 1.05, 'cherry', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1236', 1.06, 'banana', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1237', 1.07, 'melon', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1238', 1.08, 'watermelon', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('1239', 1.09, 'water', 'AVAILABLE');
+INSERT INTO item (article, cost, item_name, state) VALUES ('12311', 2.31, 'cola', 'AVAILABLE');
